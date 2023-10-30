@@ -25,7 +25,7 @@ public class Main {
             fact = fact * n;
         }
 
-        System.out.println("Factorial of " + n + " is: " + fact);
+
 
         return fact;
     }
